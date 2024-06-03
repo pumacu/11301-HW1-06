@@ -6,5 +6,10 @@ namespace CSP_20240603
             {
                   InitializeComponent();
             }
+
+            private void button2_Click(object sender, EventArgs e)
+            {
+                  int i = 0;
+            }
       }
 }
